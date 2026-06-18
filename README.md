@@ -31,10 +31,10 @@ I'm using this repository to:
 
 | Category | Solved |
 |-----------|---------|
-| 🟢 Easy | 0 |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| 🎯 Total | 0 |
+| 🎯 Total | 1 |
 
 ---
 
@@ -49,12 +49,11 @@ JavaScript (ES6+)
 ## 📂 Repository Structure
 
 ```text
-LeetCode-Solutions/
-│
-├── Easy/
-├── Medium/
-├── Hard/
-│
+leetcode-solutions/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Trees/
 └── README.md
 ```
 
@@ -83,8 +82,8 @@ LeetCode-Solutions/
 
 ### 👨‍💻 Muhammad Ishaq
 
-- GitHub: Your GitHub Profile
-- LinkedIn: Your LinkedIn Profile
+- GitHub: https://github.com/ishaqbusiness5666-sudo
+- LinkedIn: www.linkedin.com/in/muhammad-ishaq3
 
 ---
 
