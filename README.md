@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
 ## Stats
-- Easy: 25
-- Medium: 15
-- Hard: 2
+- Easy: 01
+- Medium: 0
+- Hard: 0
 
 ## Languages
 - JavaScript
@@ -12,5 +12,3 @@
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | Two Sum | Easy |
-| 121 | Best Time to Buy and Sell Stock | Easy |
-| 206 | Reverse Linked List | Easy |
