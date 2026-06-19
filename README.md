@@ -72,8 +72,8 @@ leetcode-solutions/
 ## 🚀 Progress Journey
 
 ```text
-0 / 100 Problems Solved
-□□□□□□□□□□ 0%
+1 / 100 Problems Solved
+□□□□□□□□□□ 1%
 ```
 
 ---
