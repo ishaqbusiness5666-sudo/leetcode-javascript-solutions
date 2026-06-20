@@ -4,10 +4,10 @@
 
 ### 💻 JavaScript • 📚 Data Structures & Algorithms • 🎯 Interview Preparation
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![DSA](https://img.shields.io/badge/Focus-Data_Structures_&_Algorithms-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://leetcode.com/u/mishaq03/" >![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) </a>
+<a href="https://medium.com/@abdulazeezmd060/data-structures-and-algorithms-36d11c3ca824" >![DSA](https://img.shields.io/badge/Focus-Data_Structures_&_Algorithms-blue?style=for-the-badge) </a>
+<a href="https://github.com/ishaqbusiness5666-sudo">![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)</a>
 
 </div>
 
