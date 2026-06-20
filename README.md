@@ -84,6 +84,7 @@ leetcode-solutions/
 
 - GitHub: https://github.com/ishaqbusiness5666-sudo
 - LinkedIn: www.linkedin.com/in/muhammad-ishaq3
+- LeetCode: https://leetcode.com/u/mishaq03/
 
 ---
 
