@@ -33,8 +33,8 @@ I'm using this repository to:
 |-----------|---------|
 | 🟢 Easy | 2 |
 | 🟡 Medium | 2 |
-| 🔴 Hard | 0 |
-| 🎯 Total | 4 |
+| 🔴 Hard | 1 |
+| 🎯 Total | 5 |
 
 ---
 
@@ -73,8 +73,8 @@ leetcode-solutions/
 ## 🚀 Progress Journey
 
 ```text
-4 / 100 Problems Solved
-□□□□□□□□□□ 4%
+5 / 100 Problems Solved
+□□□□□□□□□□ 5%
 ```
 
 ---
