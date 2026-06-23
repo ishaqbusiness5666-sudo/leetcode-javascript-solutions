@@ -32,9 +32,9 @@ I'm using this repository to:
 | Category | Solved |
 |-----------|---------|
 | 🟢 Easy | 2 |
-| 🟡 Medium | 2 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 1 |
-| 🎯 Total | 5 |
+| 🎯 Total | 6 |
 
 ---
 
@@ -73,8 +73,8 @@ leetcode-solutions/
 ## 🚀 Progress Journey
 
 ```text
-5 / 100 Problems Solved
-□□□□□□□□□□ 5%
+6 / 100 Problems Solved
+□□□□□□□□□□ 6%
 ```
 
 ---
