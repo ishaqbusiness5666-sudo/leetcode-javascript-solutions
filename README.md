@@ -31,10 +31,17 @@ I'm using this repository to:
 
 | Category | Solved |
 |-----------|---------|
+<<<<<<< HEAD
 | 🟢 Easy | 3 |
 | 🟡 Medium | 3 |
 | 🔴 Hard | 1 |
 | 🎯 Total | 7 |
+=======
+| 🟢 Easy | 2 |
+| 🟡 Medium | 3 |
+| 🔴 Hard | 1 |
+| 🎯 Total | 6 |
+>>>>>>> 47aba11bbc6f36bcd3d62286126b457f73c4524f
 
 ---
 
@@ -73,8 +80,13 @@ leetcode-solutions/
 ## 🚀 Progress Journey
 
 ```text
+<<<<<<< HEAD
 7 / 100 Problems Solved
 □□□□□□□□□□ 7%
+=======
+6 / 100 Problems Solved
+□□□□□□□□□□ 6%
+>>>>>>> 47aba11bbc6f36bcd3d62286126b457f73c4524f
 ```
 
 ---
