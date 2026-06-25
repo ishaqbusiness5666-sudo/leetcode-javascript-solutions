@@ -31,7 +31,6 @@ I'm using this repository to:
 
 | Category | Solved |
 |-----------|---------|
-<<<<<<< HEAD
 | 🟢 Easy | 3 |
 | 🟡 Medium | 4 |
 | 🔴 Hard | 1 |
@@ -78,6 +77,7 @@ leetcode-solutions/
 8 / 100 Problems Solved
 □□□□□□□□□□ 8%
 
+```
 ---
 
 ## 🌟 Connect With Me
